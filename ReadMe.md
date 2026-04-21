@@ -70,7 +70,7 @@ This workflow uses **Anvi’o** to integrate genomic variants with predicted pro
 
 ---
 
-## 2. Phylogenetic Codon-based Selection Analysis
+## 3. Phylogenetic Codon-based Selection Analysis
 
 This workflow uses **HyPhy** to perform codon-level evolutionary selection analyses (e.g., episodic diversifying selection, relaxed selection, and site-level selection) on microbial genes based on phylogenetic frameworks.
 
